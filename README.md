@@ -1,3 +1,3 @@
 #Sistema de exemplo de biblioteca
- Em desenvolvimento
+ em desenvolvimento
 
